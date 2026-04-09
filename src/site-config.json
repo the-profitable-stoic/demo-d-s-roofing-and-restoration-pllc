@@ -1,0 +1,575 @@
+{
+  "business": {
+    "name": "D & S Roofing and Restoration, PLLC",
+    "phone": "+17049681377",
+    "category": "roofer",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Charlotte's Roofing & Restoration Experts",
+      "heroSubline": "Protecting your home with quality craftsmanship and reliable service. Serving Charlotte, NC and surrounding areas.",
+      "aboutTitle": "D & S Roofing: Built on Trust, Backed by Quality",
+      "aboutText": [
+        "D & S Roofing and Restoration, PLLC started with a simple mission: to provide Charlotte homeowners with roofing solutions they can depend on. Founded over a decade ago by two seasoned roofing professionals, we've built our reputation on honesty, integrity, and a commitment to doing the job right the first time.",
+        "We approach every project, big or small, with meticulous attention to detail and a dedication to using only the highest-quality materials. Our team understands the unique challenges of Charlotte's climate and housing styles, ensuring lasting protection for your home.",
+        "We're proud to be a part of the Charlotte community. From sponsoring local youth sports teams to volunteering with Habitat for Humanity, we believe in giving back to the city that has given us so much."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Our team has decades of combined experience in roofing and restoration."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We use only top-grade materials from trusted manufacturers, built to withstand Charlotte's climate."
+        },
+        {
+          "title": "Comprehensive Services",
+          "description": "From minor repairs to complete roof replacements, we handle all your roofing needs."
+        },
+        {
+          "title": "Customer Satisfaction",
+          "description": "We're committed to providing exceptional service and exceeding your expectations."
+        }
+      ],
+      "ctaHeadline": "Get a Free Roofing Inspection Today!",
+      "ctaSubline": "Protect your home with a thorough inspection and expert advice from D & S Roofing."
+    },
+    "services": [
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Complete roof replacement services for lasting protection.",
+        "description": "Is your roof showing signs of age, damage, or wear? D & S Roofing provides complete roof replacement services for homes in Charlotte and surrounding areas. We understand the importance of a durable, reliable roof to protect your home and family from the elements. We start with a thorough inspection to assess the condition of your existing roof and identify any underlying issues. Our team will then guide you through the selection of roofing materials, offering options that match your budget, style, and performance needs. \n\nWe handle every aspect of the replacement process, from removing the old roof to installing a new, high-quality roofing system. We pay close attention to detail, ensuring proper flashing, ventilation, and weatherproofing. With Charlotte's humid summers and occasional ice storms, a properly installed roof is crucial for preventing leaks and water damage. We work with asphalt shingles, metal roofing, and more, delivering expert craftsmanship and lasting results. Let D & S Roofing provide you with a roof replacement that will protect your home for years to come.",
+        "process": [
+          "Step 1: Thorough roof inspection and assessment.",
+          "Step 2: Material selection and customized quote.",
+          "Step 3: Removal of old roofing materials.",
+          "Step 4: Installation of new roofing system with expert attention to detail."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved curb appeal",
+          "Enhanced protection from the elements",
+          "Reduced energy costs"
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement typically take?",
+            "answer": "The duration of a roof replacement depends on the size and complexity of your roof, but most projects are completed within 1-3 days. We'll provide a detailed timeline during the consultation process."
+          },
+          {
+            "question": "What types of roofing materials do you offer?",
+            "answer": "We offer a wide range of roofing materials, including asphalt shingles, metal roofing, and more. We can help you choose the best option for your budget, style, and performance needs."
+          },
+          {
+            "question": "Do you offer financing options for roof replacement?",
+            "answer": "Yes, we offer flexible financing options to help make roof replacement more affordable. Contact us to learn more about our financing programs."
+          }
+        ]
+      },
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Expert roof repair services to fix leaks and damage.",
+        "description": "From minor leaks to storm damage, D & S Roofing provides prompt and reliable roof repair services in Charlotte, NC. We understand that a damaged roof can lead to costly problems, including water damage, mold growth, and structural issues. That's why we offer 24/7 emergency repair services to address urgent roofing needs. Our experienced technicians will quickly assess the damage and provide you with a cost-effective solution. \n\nWe handle all types of roof repairs, including shingle replacement, leak detection and repair, flashing repair, and storm damage repair. We use high-quality materials and proven techniques to ensure lasting results. With Charlotte's frequent thunderstorms, it's crucial to address roof damage promptly to prevent further problems. We work with all types of roofing systems, including asphalt shingles, metal roofing, and more. Trust D & S Roofing to provide you with expert roof repair services that will protect your home and your investment.",
+        "process": [
+          "Step 1: Emergency roof inspection and damage assessment.",
+          "Step 2: Temporary repairs to prevent further damage.",
+          "Step 3: Detailed repair plan and cost estimate.",
+          "Step 4: Permanent roof repairs using quality materials."
+        ],
+        "benefits": [
+          "Prevent further water damage",
+          "Extend the life of your roof",
+          "Restore your home's protection",
+          "Avoid costly repairs in the future"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a roof repair request?",
+            "answer": "We offer 24/7 emergency repair services and strive to respond to all requests as quickly as possible. Our goal is to prevent further damage and protect your home."
+          },
+          {
+            "question": "How do I know if my roof needs repair?",
+            "answer": "Signs of roof damage include leaks, missing shingles, cracked or damaged flashing, and water stains on your ceiling. If you notice any of these signs, it's important to have your roof inspected by a professional."
+          },
+          {
+            "question": "What types of roof repairs do you handle?",
+            "answer": "We handle all types of roof repairs, including shingle replacement, leak detection and repair, flashing repair, and storm damage repair."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Installation & Repair",
+        "shortDescription": "Protect your home with professional gutter services.",
+        "description": "Properly functioning gutters are essential for protecting your home from water damage. D & S Roofing offers comprehensive gutter installation and repair services in Charlotte, NC. We understand that clogged or damaged gutters can lead to a variety of problems, including foundation damage, siding damage, and basement flooding. Our team will assess your gutter needs and provide you with a customized solution. \n\nWe offer a wide range of gutter options, including seamless aluminum gutters, copper gutters, and gutter guards. We install gutters with precision and attention to detail, ensuring proper drainage and preventing leaks. We also provide gutter repair services, including cleaning, sealing, and replacement of damaged sections. With Charlotte's heavy rainfall and frequent thunderstorms, it's crucial to have a well-maintained gutter system. Trust D & S Roofing to provide you with expert gutter services that will protect your home from water damage.",
+        "process": [
+          "Step 1: Gutter inspection and assessment.",
+          "Step 2: Gutter selection and customized quote.",
+          "Step 3: Professional gutter installation or repair.",
+          "Step 4: Gutter cleaning and maintenance services."
+        ],
+        "benefits": [
+          "Protect your foundation from water damage",
+          "Prevent siding damage",
+          "Avoid basement flooding",
+          "Maintain your home's value"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, in the spring and fall. However, if you have a lot of trees around your home, you may need to clean them more frequently."
+          },
+          {
+            "question": "What are gutter guards?",
+            "answer": "Gutter guards are designed to prevent leaves and debris from clogging your gutters. They can significantly reduce the amount of maintenance required to keep your gutters functioning properly."
+          },
+          {
+            "question": "What types of gutters do you offer?",
+            "answer": "We offer a wide range of gutter options, including seamless aluminum gutters, copper gutters, and gutter guards."
+          }
+        ]
+      },
+      {
+        "slug": "storm-damage-repair",
+        "name": "Storm Damage Repair",
+        "shortDescription": "Fast and reliable storm damage repair services.",
+        "description": "Charlotte's unpredictable weather can wreak havoc on your roof. D & S Roofing specializes in storm damage repair, providing fast and reliable services to restore your home's protection. From high winds and hail to heavy rain and fallen trees, we've seen it all. We understand the stress and urgency that storm damage can cause, which is why we offer 24/7 emergency repair services. \n\nOur experienced team will quickly assess the damage and provide you with a comprehensive repair plan. We work with all types of roofing systems and materials, ensuring a seamless and durable repair. We also handle insurance claims, making the process as smooth and stress-free as possible. Don't let storm damage compromise your home's integrity. Trust D & S Roofing to provide you with expert storm damage repair services that will get your home back to normal.",
+        "process": [
+          "Step 1: Emergency storm damage assessment.",
+          "Step 2: Temporary repairs to prevent further damage.",
+          "Step 3: Detailed repair plan and cost estimate.",
+          "Step 4: Assistance with insurance claims.",
+          "Step 5: Permanent storm damage repairs using quality materials."
+        ],
+        "benefits": [
+          "Restore your home's protection",
+          "Prevent further water damage",
+          "Minimize stress and inconvenience",
+          "Maximize your insurance claim"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a storm damage repair request?",
+            "answer": "We offer 24/7 emergency repair services and strive to respond to all requests as quickly as possible. Our goal is to prevent further damage and protect your home."
+          },
+          {
+            "question": "Do you work with insurance companies?",
+            "answer": "Yes, we have extensive experience working with insurance companies and can assist you with the claims process."
+          },
+          {
+            "question": "What types of storm damage do you repair?",
+            "answer": "We repair all types of storm damage, including wind damage, hail damage, water damage, and damage from fallen trees."
+          }
+        ]
+      },
+      {
+        "slug": "attic-insulation",
+        "name": "Attic Insulation Services",
+        "shortDescription": "Improve energy efficiency with attic insulation.",
+        "description": "Proper attic insulation is crucial for maintaining a comfortable and energy-efficient home in Charlotte. D & S Roofing offers professional attic insulation services to help you save money on your energy bills and improve your home's overall comfort. We understand that inadequate insulation can lead to significant energy loss, especially during Charlotte's hot summers and cold winters. \n\nOur team will assess your attic's insulation needs and recommend the best insulation solution for your home. We offer a variety of insulation options, including fiberglass, cellulose, and spray foam. We install insulation with precision and attention to detail, ensuring a proper seal and maximum energy savings. Don't let inadequate insulation drive up your energy costs. Trust D & S Roofing to provide you with expert attic insulation services that will keep your home comfortable year-round.",
+        "process": [
+          "Step 1: Attic inspection and insulation assessment.",
+          "Step 2: Insulation selection and customized quote.",
+          "Step 3: Removal of old insulation (if necessary).",
+          "Step 4: Professional insulation installation.",
+          "Step 5: Air sealing to prevent drafts and energy loss."
+        ],
+        "benefits": [
+          "Lower energy bills",
+          "Improved home comfort",
+          "Reduced carbon footprint",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my attic needs more insulation?",
+            "answer": "Signs of inadequate insulation include high energy bills, drafts, and inconsistent temperatures throughout your home. You can also check your attic insulation levels to see if they meet recommended standards."
+          },
+          {
+            "question": "What types of insulation do you offer?",
+            "answer": "We offer a variety of insulation options, including fiberglass, cellulose, and spray foam. We can help you choose the best option for your budget and needs."
+          },
+          {
+            "question": "Will new attic insulation help with moisture problems?",
+            "answer": "Yes, proper attic insulation can help prevent moisture problems by reducing condensation and improving ventilation."
+          }
+        ]
+      },
+      {
+        "slug": "skylight-installation-repair",
+        "name": "Skylight Installation & Repair",
+        "shortDescription": "Brighten your home with skylight services.",
+        "description": "Bring natural light into your home with professional skylight installation and repair services from D & S Roofing. We understand that skylights can enhance the beauty and functionality of your home, creating a brighter and more inviting living space. Our team will assess your skylight needs and provide you with a customized solution. \n\nWe offer a wide range of skylight options, including fixed skylights, venting skylights, and solar-powered skylights. We install skylights with precision and attention to detail, ensuring a watertight seal and preventing leaks. We also provide skylight repair services, including leak detection and repair, glass replacement, and flashing repair. With Charlotte's sunny days, skylights are a great way to brighten your home and reduce your reliance on artificial lighting. Trust D & S Roofing to provide you with expert skylight services that will enhance your home's beauty and value.",
+        "process": [
+          "Step 1: Skylight assessment and design consultation.",
+          "Step 2: Skylight selection and customized quote.",
+          "Step 3: Professional skylight installation or repair.",
+          "Step 4: Sealing and weatherproofing.",
+          "Step 5: Interior finishing."
+        ],
+        "benefits": [
+          "Increased natural light",
+          "Improved home aesthetics",
+          "Reduced energy costs",
+          "Enhanced ventilation"
+        ],
+        "faq": [
+          {
+            "question": "What types of skylights do you offer?",
+            "answer": "We offer a wide range of skylight options, including fixed skylights, venting skylights, and solar-powered skylights. We can help you choose the best option for your needs and budget."
+          },
+          {
+            "question": "How do I prevent skylight leaks?",
+            "answer": "Proper installation and regular maintenance are essential for preventing skylight leaks. We use high-quality materials and proven techniques to ensure a watertight seal."
+          },
+          {
+            "question": "Do skylights increase my energy bills?",
+            "answer": "Modern skylights are designed to be energy-efficient and can actually reduce your energy bills by providing natural light and ventilation."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Huntersville",
+        "slug": "huntersville-nc",
+        "state": "NC",
+        "content": "D & S Roofing and Restoration, PLLC is proud to offer our expert roofing services to the residents of Huntersville, North Carolina. Known for its beautiful neighborhoods and thriving community, Huntersville presents unique roofing challenges and opportunities. From the 1990s and 2000s suburban developments to homes closer to Lake Norman, we understand the specific needs of Huntersville homeowners.\n\nOur team is experienced in handling the roofing demands of Huntersville's climate, including hot, humid summers and occasional severe weather. We offer a full range of services, including roof repair, roof replacement, and routine maintenance, ensuring your home is protected for years to come. We use only the highest quality materials and employ skilled professionals to deliver exceptional results.",
+        "localContext": "Huntersville features many homes built during the suburban expansion of the 1990s and 2000s, requiring roofing solutions that match these architectural styles and withstand the humid climate.",
+        "nearbyAreas": [
+          "Cornelius",
+          "Davidson",
+          "Mooresville"
+        ]
+      },
+      {
+        "city": "Concord",
+        "slug": "concord-nc",
+        "state": "NC",
+        "content": "D & S Roofing and Restoration, PLLC extends its premier roofing services to Concord, North Carolina. With a rich history and a diverse range of housing styles, Concord presents a variety of roofing needs. We are familiar with the prevalent 1980s and 1990s family homes that characterize much of Concord's residential landscape.\n\nWe understand the challenges of maintaining roofs in Concord's hot, humid climate. Our services include thorough roof inspections, efficient repairs, complete roof replacements, and preventative maintenance programs designed to extend the life of your roof. We are dedicated to providing Concord homeowners with reliable and affordable roofing solutions.",
+        "localContext": "Concord features many homes from the 1980s and 1990s, often requiring roofing updates and repairs to maintain their value and protect against the elements.",
+        "nearbyAreas": [
+          "Kannapolis",
+          "Harrisburg",
+          "Midland"
+        ]
+      },
+      {
+        "city": "Matthews",
+        "slug": "matthews-nc",
+        "state": "NC",
+        "content": "D & S Roofing and Restoration, PLLC is pleased to provide top-quality roofing services to the community of Matthews, North Carolina. Known for its established neighborhoods and family-friendly atmosphere, Matthews has a unique blend of roofing styles and requirements. We are well-versed in the needs of homes built in the 1970s and 1980s that are common in Matthews.\n\nOur team is equipped to handle all your roofing needs, from minor repairs to complete replacements. We understand the importance of a durable and reliable roof in Matthews' climate, with its hot, humid summers and occasional severe weather. We are committed to providing Matthews homeowners with exceptional service and long-lasting roofing solutions.",
+        "localContext": "Matthews is characterized by established suburbs from the 1970s and 1980s, often requiring roofing maintenance and upgrades to preserve their structural integrity.",
+        "nearbyAreas": [
+          "Mint Hill",
+          "Weddington",
+          "Stallings"
+        ]
+      },
+      {
+        "city": "Fort Mill",
+        "slug": "fort-mill-sc",
+        "state": "SC",
+        "content": "D & S Roofing and Restoration, PLLC is happy to offer our professional roofing services to the growing community of Fort Mill, South Carolina. With its newer planned communities and rapid development, Fort Mill presents a unique set of roofing considerations. We are experienced in working with the modern architectural styles prevalent in the 2000s to 2020s homes in Fort Mill.\n\nWe understand the importance of a well-maintained roof in protecting your investment in Fort Mill's climate, with its hot, humid summers. Our services include roof inspections, repairs, replacements, and maintenance programs tailored to the specific needs of Fort Mill homeowners. We are committed to providing reliable and affordable roofing solutions.",
+        "localContext": "Fort Mill’s newer planned communities built from the 2000s to 2020s require roofing solutions that complement modern designs and withstand the climate.",
+        "nearbyAreas": [
+          "Tega Cay",
+          "Rock Hill",
+          "Indian Land"
+        ]
+      },
+      {
+        "city": "Gastonia",
+        "slug": "gastonia-nc",
+        "state": "NC",
+        "content": "D & S Roofing and Restoration, PLLC proudly serves the residents of Gastonia, North Carolina, with our comprehensive roofing services. Gastonia, with its rich history and diverse housing stock, presents a variety of roofing needs. We are familiar with the 1960s and 1970s working-class homes that characterize much of Gastonia's residential landscape.\n\nWe understand the challenges of maintaining roofs in Gastonia's hot, humid climate. Our services include thorough roof inspections, efficient repairs, complete roof replacements, and preventative maintenance programs designed to extend the life of your roof. We are dedicated to providing Gastonia homeowners with reliable and affordable roofing solutions.",
+        "localContext": "Gastonia features many homes from the 1960s and 1970s, often requiring roofing updates and repairs to maintain their value and protect against the elements.",
+        "nearbyAreas": [
+          "Mount Holly",
+          "Belmont",
+          "Dallas"
+        ]
+      },
+      {
+        "city": "Pineville",
+        "slug": "pineville-nc",
+        "state": "NC",
+        "content": "D & S Roofing and Restoration, PLLC is dedicated to providing top-notch roofing services to the residents of Pineville, NC. Pineville's mix of older homes and newer developments requires a roofing company with a diverse skill set. We are equipped to handle any roofing project, big or small.\n\nOur team understands the specific challenges that the North Carolina climate poses to roofs. With hot, humid summers and occasional severe weather, it's crucial to have a roof that can withstand the elements. We offer a full range of services, including roof repair, replacement, and maintenance, to ensure your home is protected year-round.",
+        "localContext": "Pineville features a range of homes, from older, established properties to newer constructions, each with unique roofing needs.",
+        "nearbyAreas": [
+          "Charlotte",
+          "Fort Mill",
+          "Matthews"
+        ]
+      },
+      {
+        "city": "Belmont",
+        "slug": "belmont-nc",
+        "state": "NC",
+        "content": "D & S Roofing and Restoration, PLLC is pleased to offer comprehensive roofing services to the residents of Belmont, North Carolina. Belmont, known for its historic charm and growing community, presents a variety of roofing needs. From older homes to newer constructions, we are equipped to handle any roofing project.\n\nOur team understands the importance of a well-maintained roof in Belmont's climate. With hot, humid summers and occasional severe weather, it's crucial to have a roof that can withstand the elements. We offer a full range of services, including roof repair, roof replacement, and routine maintenance, ensuring your home is protected for years to come.",
+        "localContext": "Belmont features a mix of historic homes and newer developments, requiring roofing solutions that are both aesthetically pleasing and durable.",
+        "nearbyAreas": [
+          "Mount Holly",
+          "Gastonia",
+          "Clover"
+        ]
+      },
+      {
+        "city": "Harrisburg",
+        "slug": "harrisburg-nc",
+        "state": "NC",
+        "content": "D & S Roofing and Restoration, PLLC is proud to offer our expert roofing services to the residents of Harrisburg, North Carolina. Harrisburg's rapid growth and mix of housing styles present unique roofing challenges and opportunities. We are familiar with the newer constructions and established neighborhoods in Harrisburg.\n\nOur team is experienced in handling the roofing demands of Harrisburg's climate, including hot, humid summers and occasional severe weather. We offer a full range of services, including roof repair, roof replacement, and routine maintenance, ensuring your home is protected for years to come. We use only the highest quality materials and employ skilled professionals to deliver exceptional results.",
+        "localContext": "Harrisburg's mix of newer homes and established neighborhoods requires roofing solutions that are both modern and reliable.",
+        "nearbyAreas": [
+          "Concord",
+          "Charlotte",
+          "Midland"
+        ]
+      },
+      {
+        "city": "Cornelius",
+        "slug": "cornelius-nc",
+        "state": "NC",
+        "content": "D & S Roofing and Restoration, PLLC is dedicated to providing top-quality roofing services to the residents of Cornelius, North Carolina. Located on the shores of Lake Norman, Cornelius features a variety of homes, from waterfront properties to established neighborhoods. We are equipped to handle any roofing project, big or small.\n\nOur team understands the specific challenges that the lakefront environment and North Carolina climate pose to roofs. With hot, humid summers and occasional severe weather, it's crucial to have a roof that can withstand the elements. We offer a full range of services, including roof repair, replacement, and maintenance, to ensure your home is protected year-round.",
+        "localContext": "Cornelius features many waterfront properties and established neighborhoods, each with unique roofing needs due to the lakefront environment and climate.",
+        "nearbyAreas": [
+          "Huntersville",
+          "Davidson",
+          "Mooresville"
+        ]
+      },
+      {
+        "city": "Davidson",
+        "slug": "davidson-nc",
+        "state": "NC",
+        "content": "D & S Roofing and Restoration, PLLC is pleased to offer comprehensive roofing services to the residents of Davidson, North Carolina. Known for its charming town center and historic homes, Davidson presents a unique set of roofing needs. We are experienced in working with both older and newer properties in Davidson.\n\nOur team understands the importance of a well-maintained roof in Davidson's climate. With hot, humid summers and occasional severe weather, it's crucial to have a roof that can withstand the elements. We offer a full range of services, including roof repair, roof replacement, and routine maintenance, ensuring your home is protected for years to come.",
+        "localContext": "Davidson features a mix of historic homes and newer constructions, requiring roofing solutions that are both aesthetically pleasing and durable.",
+        "nearbyAreas": [
+          "Huntersville",
+          "Cornelius",
+          "Mooresville"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "D&S Roofing was fantastic! We had a leak after a bad storm, and they came out quickly to assess the damage. They fixed the leak efficiently and professionally. Highly recommend their services!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "We recently had our roof replaced by D&S Roofing, and we couldn't be happier with the results. The team was professional, courteous, and did an excellent job. The new roof looks great and has already made a difference in our home's energy efficiency.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Lisa K.",
+        "rating": 4,
+        "service": "Gutter Installation",
+        "text": "D&S Roofing installed new gutters on our house, and they did a great job. The gutters look great and function perfectly. There was a small hiccup with the scheduling, but they quickly resolved it and were very apologetic.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "Storm Damage Repair",
+        "text": "After a severe hailstorm, our roof was badly damaged. D&S Roofing came out quickly to assess the damage and provided us with a detailed repair plan. They worked directly with our insurance company and made the whole process stress-free. The repairs were done quickly and professionally.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Attic Insulation",
+        "text": "We had D&S Roofing install new attic insulation, and it has made a huge difference in our home's comfort and energy efficiency. Our energy bills have decreased significantly, and our house is much warmer in the winter and cooler in the summer.",
+        "date": "2024-12-20"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "D&S Roofing handled a tricky repair on my older home in Dilworth. They were very knowledgeable about older construction techniques and knew exactly how to fix the problem without causing further damage. Highly recommend them for older homes!",
+        "date": "2025-02-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Charlotte Roofing | D & S Roofing & Restoration",
+        "description": "Expert roofing services in Charlotte, NC. Roof repair, replacement, gutters, & storm damage. Free estimates. Call D & S Roofing today!"
+      },
+      "about": {
+        "title": "About Us | D & S Roofing & Restoration",
+        "description": "Learn about D & S Roofing & Restoration's commitment to quality roofing services in Charlotte, NC. Experienced and reliable roofing contractors."
+      },
+      "services": {
+        "title": "Roofing Services | D & S Roofing Charlotte NC",
+        "description": "Comprehensive roofing services in Charlotte, NC. Roof repair, replacement, gutters, storm damage repair, and more. Get a free quote!"
+      },
+      "contact": {
+        "title": "Contact D & S Roofing | Charlotte NC",
+        "description": "Contact D & S Roofing & Restoration for roofing services in Charlotte, NC. Get a free estimate for roof repair, replacement, and more."
+      },
+      "reviews": {
+        "title": "D & S Roofing Reviews | Charlotte, NC",
+        "description": "Read what our customers say about D & S Roofing & Restoration in Charlotte, NC. Quality roofing services and customer satisfaction guaranteed."
+      },
+      "service-areas": {
+        "title": "Service Areas | D & S Roofing Charlotte",
+        "description": "D & S Roofing provides roofing services in Charlotte, NC and surrounding areas. Find out if we serve your neighborhood. Free estimates!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-repair": "/images/service-roof-repair.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "storm-damage-repair": "/images/service-storm-damage-repair.webp",
+      "attic-insulation": "/images/service-attic-insulation.webp",
+      "skylight-installation-repair": "/images/service-skylight-installation-repair.webp"
+    },
+    "servicesResponsive": {
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-damage-repair": {
+        "src": "/images/service-storm-damage-repair.webp",
+        "srcset": "/images/service-storm-damage-repair-400w.webp 400w, /images/service-storm-damage-repair-800w.webp 800w, /images/service-storm-damage-repair-1200w.webp 1200w, /images/service-storm-damage-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "attic-insulation": {
+        "src": "/images/service-attic-insulation.webp",
+        "srcset": "/images/service-attic-insulation-400w.webp 400w, /images/service-attic-insulation-800w.webp 800w, /images/service-attic-insulation-1200w.webp 1200w, /images/service-attic-insulation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "skylight-installation-repair": {
+        "src": "/images/service-skylight-installation-repair.webp",
+        "srcset": "/images/service-skylight-installation-repair-400w.webp 400w, /images/service-skylight-installation-repair-800w.webp 800w, /images/service-skylight-installation-repair-1200w.webp 1200w, /images/service-skylight-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
